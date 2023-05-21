@@ -27,3 +27,6 @@ Our journey involved various steps, including data cleaning, feature engineering
 Although we encountered some failures during the experimentation process, we persisted and learned from those experiences to refine our approach. As a result, we were able to develop a robust machine learning model that could accurately predict sales up to six weeks in advance. This achievement highlights the significance of data processing, proper algorithm selection, and effective model evaluation techniques in creating successful predictive models.
 
 Overall, the journey to building the Rossman Sales Prediction model was challenging yet rewarding. It demonstrated the importance of perseverance, knowledge, and adaptability in overcoming obstacles and achieving accurate sales forecasts.
+
+
+
